@@ -1,4 +1,4 @@
-package com.example.mvvm.networking;
+package com.example.mvvm.service;
 
 import com.example.mvvm.model.NewsResponse;
 

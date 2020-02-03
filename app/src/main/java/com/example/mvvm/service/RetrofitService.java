@@ -1,4 +1,4 @@
-package com.example.mvvm.networking;
+package com.example.mvvm.service;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
