@@ -1,4 +1,4 @@
-package com.example.mvvm.adapters;
+package com.example.mvvm.view.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;

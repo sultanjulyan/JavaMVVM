@@ -1,4 +1,4 @@
-package com.example.mvvm;
+package com.example.mvvm.view.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProviders;
@@ -8,7 +8,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
-import com.example.mvvm.adapters.NewsAdapter;
+import com.example.mvvm.R;
+import com.example.mvvm.view.adapters.NewsAdapter;
 import com.example.mvvm.model.NewsArticle;
 import com.example.mvvm.viewmodels.NewsViewModel;
 
